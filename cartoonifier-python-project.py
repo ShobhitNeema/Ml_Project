@@ -99,6 +99,3 @@ upload.configure(background='#364156', foreground='white',font=('calibri',10,'bo
 upload.pack(side=TOP,pady=50)
 
 top.mainloop()
-
-
-
